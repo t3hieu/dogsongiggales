@@ -23,11 +23,11 @@ ul,li,a {
     list-style: none;
     text-decoration: none;
     color: #000;
-    font-family: "Bowlby One", serif;
+    font-family: "Bungee", serif;
 }
 
 body {
-    font-family: "Bowlby One", serif;
+    font-family: "Bungee", serif;
     background-color: #FFE6CF;
     display: flex;
     flex-direction: column;
@@ -35,14 +35,14 @@ body {
     align-items: center;
 }
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Bowlby One", serif;
+    font-family: "Bungee", serif;
     font-weight: 400;
     color: #000;
 }
 button {
     height: 48px;
     text-align: center  ;
-    font-family: "Bowlby One", serif;
+    font-family: "Bungee", serif;
     font-size: 16px;
     font-weight: 600;
     color: #1F67B4;
