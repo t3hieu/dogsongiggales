@@ -5,13 +5,12 @@
 	box-sizing: border-box;
     
 }
-.titan-one-regular {
-  font-family: "Titan One", serif;
-  font-weight: 400;
+.sen-<uniquifier> {
+  font-family: "Sen", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
   font-style: normal;
 }
-
-  
 
 .sec-1,.sec-2,.sec-3,.sec-4,.sec-5 {
     width: 100vw;
@@ -24,11 +23,11 @@ ul,li,a {
     list-style: none;
     text-decoration: none;
     color: #000;
-    font-family: "Bungee", serif;
+    font-family: "Sen", serif;
 }
 
 body {
-    font-family: "Titan One", serif;
+    font-family: "Sen", serif;
     background-color: #FFE6CF;
     display: flex;
     flex-direction: column;
@@ -36,14 +35,14 @@ body {
     align-items: center;
 }
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Titan One", serif;
+    font-family: "Sen", serif;
     font-weight: 400;
     color: #000;
 }
 button {
     height: 48px;
     text-align: center  ;
-    font-family: "Titan One", serif;
+    font-family: "Sen", serif;
     font-size: 16px;
     font-weight: 600;
     color: #1F67B4;
