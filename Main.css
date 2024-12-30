@@ -299,7 +299,7 @@ h1 {
 .box {
     max-width: 100%;
     display: grid;
-    grid-template-columns: repeat(4, 4fr);
+    grid-template-columns: repeat(3, 4fr);
     gap: 40px;
     
 }
