@@ -262,7 +262,7 @@ h1 {
 .grid {
     max-width: 1000px;
     display: grid;
-    grid-template-columns: repeat(3, 2fr);
+    grid-template-columns: repeat(3, 1fr);
     /* grid-template-columns: auto auto auto auto;/ */
     gap: 20px;
     padding: 20px;
