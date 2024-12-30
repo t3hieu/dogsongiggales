@@ -5,11 +5,11 @@
 	box-sizing: border-box;
     
 }
-.bowlby-one-regular {
-    font-family: "Bungee", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+.bungee-regular {
+  font-family: "Bungee", serif;
+  font-weight: 400;
+  font-style: normal;
+}
   
 
 .sec-1,.sec-2,.sec-3,.sec-4,.sec-5 {
