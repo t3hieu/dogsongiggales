@@ -5,11 +5,12 @@
 	box-sizing: border-box;
     
 }
-.bungee-regular {
-  font-family: "Bungee", serif;
+.titan-one-regular {
+  font-family: "Titan One", serif;
   font-weight: 400;
   font-style: normal;
 }
+
   
 
 .sec-1,.sec-2,.sec-3,.sec-4,.sec-5 {
@@ -27,7 +28,7 @@ ul,li,a {
 }
 
 body {
-    font-family: "Bungee", serif;
+    font-family: "Titan One", serif;
     background-color: #FFE6CF;
     display: flex;
     flex-direction: column;
@@ -35,14 +36,14 @@ body {
     align-items: center;
 }
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Bungee", serif;
+    font-family: "Titan One", serif;
     font-weight: 400;
     color: #000;
 }
 button {
     height: 48px;
     text-align: center  ;
-    font-family: "Bungee", serif;
+    font-family: "Titan One", serif;
     font-size: 16px;
     font-weight: 600;
     color: #1F67B4;
